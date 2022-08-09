@@ -1,0 +1,28 @@
+p {
+    color: red;
+    font-size: 46px;
+}
+
+.my-text {
+    color: fuchsia;
+    font-size: 18px;
+}
+.my-button {
+    background-color: aliceblue;
+    border: solid black;
+    border-width: 1px;
+    margin-top: 8px;
+    border-radius: 4px;
+}
+.my-button:hover {
+    background-color: aquamarine;
+}
+.my-picture {
+    padding: 40px;
+    width: 200px;
+    height: 200px;
+    border-radius: 200px;
+
+
+
+}
